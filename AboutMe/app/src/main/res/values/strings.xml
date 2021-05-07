@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Marcos Prado</string>
+    <string name="star">star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        \nFusce semper leo in sagittis vehicula. Curabitur varius orci ligula.
+        \n\nNam feugiat, magna at eleifend lacinia, nisl augue viverra odio, in tristique orci nulla sit amet magna.
+        \nAliquam pharetra facilisis dolor id dictum. Ut placerat eros a pharetra tempus.
+        \nDuis vulputate sapien non elementum egestas.
+        \n\nIn libero lectus, tempor vitae aliquet ultrices, dapibus nec libero.
+        Sed efficitur nunc neque, ac tristique lectus malesuada a.
+        \n\nCras fringilla, dui eu facilisis dignissim, elit massa tincidunt mi, id porta quam dolor et ex.
+        \n\nDonec consectetur laoreet leo, ut mattis justo iaculis sit amet. Nullam ornare gravida tempus.
+        \nNullam id augue dui. Donec mollis ultrices nisi ut cursus.\n</string>
+    <string name="input_nickname">Qual seu apelido?</string>
+    <string name="done">DONE</string>
+</resources>
