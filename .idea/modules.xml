@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/android-course-udacity-google.iml" filepath="$PROJECT_DIR$/.idea/android-course-udacity-google.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TriviaApp.iml" filepath="$PROJECT_DIR$/.idea/modules/TriviaApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TriviaApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TriviaApp.app.iml" />
     </modules>
   </component>
 </project>
