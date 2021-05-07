@@ -15,7 +15,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         app:srcCompat="@drawable/empty_dice"
-        tools:srcCompat="@drawable/dice_1"/>
+        tools:srcCompat="@drawable/dice_1"
+        android:contentDescription="@string/dice_image"/>
     
     <Button
         android:id="@+id/roll_button"
