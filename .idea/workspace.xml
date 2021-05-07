@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64ded7ea-afa9-4277-af77-3c7270b925be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DiceRoller/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/androidTest/java/com/example/diceroller/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/java/com/example/diceroller/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/drawable/dice_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/drawable/dice_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/drawable/dice_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/drawable/dice_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/drawable/dice_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/drawable/dice_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/drawable/empty_dice.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/app/src/test/java/com/example/diceroller/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sD1Bc6ZW3MN1bYUrbpLLdr22sW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64ded7ea-afa9-4277-af77-3c7270b925be" name="Default Changelist" comment="" />
+      <created>1620392211327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620392211327</updated>
+    </task>
+    <servers />
+  </component>
+</project>
